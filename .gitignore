@@ -3,3 +3,6 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+WebApplication1/appsettings.json
+WebApplication1/appsettings.Development.json
+WebApplication1/Properties/launchSettings.json
